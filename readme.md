@@ -3,8 +3,8 @@ COMPILER DESIGN LAB EXERCISES
 OS VERSION -- UBUNTU 14.04 
 
 pre - installations : 
-		   'sudo apt-get install flex' -> for compiling lex files
-		   'sudo apt-get install bison' -> for compiling yacc files
+		   'sudo apt-get install flex' -> for lex files
+		   'sudo apt-get install bison' -> for yacc files
 
 
 
